@@ -4,10 +4,10 @@
 
 url: http://gravecode.github.com
 title: GraveCode
-subtitle: Learning to code. Serious business.
+subtitle: Writing code. Serious business.
 author: James Gater
 simple_search: http://google.com/search
-description:
+description: a blog about re-learning to code. an old dog learns new tricks.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
